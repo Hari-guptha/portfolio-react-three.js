@@ -8,7 +8,7 @@ import  Canvasloader  from './Canvasloader'
 
 const Balls = () => {
     const balls = useGLTF('./earth.gltf', true, { draco: true })
-    balls.scene.scale.set(5, 5, 5);
+    balls.scene.scale.set(1,1,1);
     return (
         <mesh  >
             <hemisphereLight intensity={1} />
