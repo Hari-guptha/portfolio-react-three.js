@@ -22,12 +22,9 @@
 }
 
 #navitem2:hover{
-    color: #FABFFB;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff;
 }
 
-#navitem2:active{
-    color:#00DDDA;
-}
 
 #closeicon{
     margin-top: 20px; 

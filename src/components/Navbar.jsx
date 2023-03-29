@@ -1,6 +1,7 @@
 import { AppBar, Box, Drawer, Stack } from '@mui/material'
 import React, { useState } from 'react'
 import '../assets/css/Nav.css'
+import '../assets/css/central.css'
 //Icon
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';

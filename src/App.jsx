@@ -1,3 +1,4 @@
+import About from "./components/About"
 import { Main } from "./components/main"
 import { Navbar } from "./components/Navbar"
 
@@ -7,7 +8,7 @@ function App() {
     <>
     <Navbar/>
     <Main />
-
+    <About />
     </>
   )
 }
