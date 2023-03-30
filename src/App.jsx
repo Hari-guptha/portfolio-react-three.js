@@ -2,6 +2,8 @@ import About from "./components/About"
 import { Main } from "./components/main"
 import { Navbar } from "./components/Navbar"
 
+// import Ballcanvas from "./components/canvas/balls"
+
 
 function App() {
   return (
@@ -9,6 +11,7 @@ function App() {
     <Navbar/>
     <Main />
     <About />
+    {/* <Ballcanvas/> */}
     </>
   )
 }

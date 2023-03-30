@@ -4,7 +4,8 @@ import '../assets/css/main.css'
 import '../assets/css/button.css'
 import '../assets/css/mouseanimation.css'
 import Img1 from '../assets/img/img1.png'
-import Img2 from '../assets/img/samp3.png'
+import Img2 from '../assets/img/samp4.png'
+
 
 
 
@@ -27,7 +28,7 @@ export const Main = () => {
                     </div>
                 </div>
                 <img id='img' src={Img1} alt="char" />
-
+                
             </Stack>
             <br/>
             <br/>
